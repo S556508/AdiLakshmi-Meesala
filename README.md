@@ -11,8 +11,3 @@
 
 
 This is my gitbhub pages site [GitHub Pages](https://pages.github.com/).
-
-**Visited cities in USA **
--Kansas City
--Dallas
--Huston
