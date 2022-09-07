@@ -10,4 +10,9 @@
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+This is my gitbhub pages site [GitHub Pages](https://pages.github.com/).
+
+**Visited cities in USA **
+-Kansas City
+-Dallas
+-Huston
